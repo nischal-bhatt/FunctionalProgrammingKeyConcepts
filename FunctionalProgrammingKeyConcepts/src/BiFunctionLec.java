@@ -8,7 +8,7 @@ public class BiFunctionLec {
 			return String.valueOf(a1 + a2);
 		};
      
-		System.out.println(a.apply(300, 7).length());
+		System.out.println(2+a.apply(300, 7).length());
 		
 	}
 }
