@@ -13,6 +13,7 @@ public class Currying {
 	    
 	    System.out.println(ra.apply(7));
 	    System.out.println(ra.apply(88));
+	    System.out.println(ra.apply(92));
 	    
 	}
 }
